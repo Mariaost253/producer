@@ -1,14 +1,14 @@
 # Kafka - spring boot - Testing Project
 
-* Producer - url
-* Consumer + sprintboot (web server) - url
-* Api Testing - url
+* Producer - https://github.com/Mariaost253/producer
+* Consumer + sprintboot (web server) - https://github.com/Mariaost253/webserver-consumer
+* Api Testing - https://github.com/Mariaost253/api-testing
 
 # Project Highlights
 * Kafka 
 * spring-boot
 * H2 Database integration using JPA
-* Unit & Integration tests using junit,rest template, embedded kafka, MockMvc
+* Unit & Integration tests using junit,rest template, embedded kafka, MockMvc, Mockito
 * Api Tests using Rest-assured, testNG
 
 # Prerequisites
