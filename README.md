@@ -34,7 +34,7 @@ Windows (bin/windows folder)
 zookeeper-server-start.bat ../../config/zookeeper.properties
 
 * Kafka broker -
-kafka-server-start.bat ../../config/zookeeper.properties
+kafka-server-start.bat ../../config/server.properties
 
 ## Steps to run project
 * Make sure the zookeeper and kafka cluster are running 
