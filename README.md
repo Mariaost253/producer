@@ -1,8 +1,8 @@
 # Kafka - spring boot - Testing Project
 
-*Producer - url
-*Consumer + sprintboot (web server) - url
-*Api Testing - url
+* Producer - url
+* Consumer + sprintboot (web server) - url
+* Api Testing - url
 
 # Project Highlights
 * Kafka 
@@ -17,15 +17,15 @@ https://kafka.apache.org/downloads.html
 
 Start Zookeeper and Kafka Broker
 Mac (bin folder)
-*Zookeeper
+* Zookeeper
 ./zookeeper-server-start.sh ../config/zookeeper.properties
 
-*Kafka broker
+* Kafka broker
 ./kafka-server-start.sh ../config/server.properties
 
 Windows (bin/windows folder)
-*Zookeeper
+* Zookeeper
 zookeeper-server-start.bat ..\..\config\zookeeper.properties
 
-*Kafka broker
+* Kafka broker
 kafka-server-start.bat ..\..\config\server.properties
