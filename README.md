@@ -23,18 +23,18 @@ https://kafka.apache.org/downloads.html
 
 Start Zookeeper and Kafka Broker
 Mac (bin folder)
-* Zookeeper
+* Zookeeper - 
 ./zookeeper-server-start.sh ../config/zookeeper.properties
 
-* Kafka broker
+* Kafka broker -
 ./kafka-server-start.sh ../config/server.properties
 
 Windows (bin/windows folder)
-* Zookeeper
-zookeeper-server-start.bat ..\..\config\zookeeper.properties
+* Zookeeper-
+zookeeper-server-start.bat ../../config/zookeeper.properties
 
-* Kafka broker
-kafka-server-start.bat ..\..\config\server.properties
+* Kafka broker -
+kafka-server-start.bat ../../config/zookeeper.properties
 
 ## Steps to run project
 * Make sure the zookeeper and kafka cluster are running 
